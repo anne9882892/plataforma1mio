@@ -1,0 +1,118 @@
+*{
+   font-family: verdana;
+   margin: 0px auto;
+}
+.pagina{
+   width: 100%;
+   max-width: 1000px;
+   background-color: #f3d6ff;
+}
+header{
+    color:#fffbfb;
+    background-color: #b805ff;
+    padding: 20px;
+    text-align: center;
+    
+ }
+ 
+ .menu ul{
+    list-style: none;
+    margin:0% auto;
+ }
+ .menu ul li {
+    display: inline;
+    text-transform: uppercase;
+ }
+ .menu ul li a{
+    text-decoration:none ;
+    color: #6c6c6c;
+    border-bottom:2px solid #b805ff; 
+    padding: 30px;
+    display: inline-block;
+    text-align: center;
+ }
+ .menu ul li a:hover{
+    color:#fff;
+    background-color:#b805ff;
+ }
+ section, footer, nav{
+    text-align: center;
+ }
+ figure{
+   display: inline-block;
+   background-color:black ;
+   margin: 10px;
+   padding: 10px;
+   border-radius: 10px;
+   opacity: 0.8 ;
+ }
+ figure:hover{
+   opacity: 1 ;
+ }
+ .banner{
+   text-align: center;
+   margin: 0px;
+   display: block;
+   padding:10px;
+ }
+ figcaption a{
+   text-decoration: none;
+   color: #fff;
+   display: inline-block;
+ }
+ fieldset{
+   width: 60%;
+   margin: 10px auto;
+ }
+ .formulario{
+   margin: 10px;
+ }
+ .formesq{
+   display: inline-block;
+   width: 20%;
+   text-align:right;
+   vertical-align: top;
+ }
+ .formdir{
+   display: inline-block;
+   text-align: left;
+ }
+ table{
+  border:solid 1px #5a5a5a;
+  margin: 30px auto;
+  display: inline-block;
+  width: 700px;
+
+ }
+ td, th, tr{
+  border: solid 1px #5a5a5a;
+  padding: 10px;
+  text-align: left center;
+  width: 700px;
+  background-color: #c1e3ff;
+ }
+ th{
+  background-color: #1b90f0;
+ }
+ .tituloP{
+  margin: 30px;
+  color: #1b90f0;
+ }
+ footer{
+  margin: 100px;
+ }
+ hr{
+  margin: 20px;
+ }
+ .curriculo{
+  padding: 10px;
+ }
+ h1{
+  font-weight: 800;
+            text-shadow: 3px 3px 0px black, -1px -1px 0px black, 1px -1px 0px black, -1px 1px 0px black;
+ }
+ a{
+  border: none;
+ }
+
+ 
